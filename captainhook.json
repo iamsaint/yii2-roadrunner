@@ -23,11 +23,6 @@
                 "action": "\\CaptainHook\\App\\Hook\\PHP\\Action\\Linting",
                 "options": [],
                 "conditions": []
-            },
-            {
-                "action": "phpunit",
-                "options": [],
-                "conditions": []
             }
         ]
     },
