@@ -20,7 +20,8 @@
         }
     ],
     "require-dev": {
-        "captainhook/captainhook": "^4.5"
+        "captainhook/captainhook": "^4.5",
+        "deployer/deployer": "^6.6"
     },
     "autoload": {
         "psr4": {
