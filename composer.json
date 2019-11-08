@@ -21,5 +21,10 @@
     ],
     "require-dev": {
         "captainhook/captainhook": "^4.5"
+    },
+    "autoload": {
+        "psr4": {
+            "App\\": "src/App"
+        }
     }
 }
